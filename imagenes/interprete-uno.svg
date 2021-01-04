@@ -1,0 +1,23 @@
+<svg width="800" height="221" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="223" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="50" width="198.99999" y="103.45313" x="11" stroke-width="1.5" fill="#fff"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="133.45313" x="32" stroke-width="0" stroke="#000" fill="#000000">Código Fuente</text>
+  <path id="svg_4" d="m249.03016,139.48867c-2.51365,-0.77745 -2.18386,-1.24824 3.92757,-5.60637c3.08598,-2.20063 5.61085,-4.06509 5.61085,-4.14326c0,-0.07815 -8.52144,-0.14211 -18.9366,-0.14211l-18.9366,0l0,-4.12156l0,-4.12156l19.08668,0c14.71691,0 18.92238,-0.12416 18.36915,-0.54231c-0.39464,-0.29827 -3.08667,-2.27754 -5.98229,-4.39837c-5.45828,-3.99782 -5.45657,-5.06994 0.00843,-5.40225c2.71973,-0.16538 45.06261,12.5413 46.51802,13.9596c-14.10405,5.06412 -30.96316,10.36496 -46.49315,15.0388c-0.81886,0 -2.24627,-0.23428 -3.17207,-0.52062l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_6" height="88" width="180" y="85" x="331" fill-opacity="null" stroke-opacity="null" stroke-width="10.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_7" height="58" width="153" y="100" x="344" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="138" x="372" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Interprete</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="54" x="367" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Ordenador</text>
+  <path id="svg_10" d="m618.00497,128.75876l30.59998,-27.99996l91.79989,0l30.60008,27.99996l-30.60008,28.00005l-91.79989,0l-30.59998,-28.00005z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path id="svg_12" d="m555.03016,143.48867c-2.51365,-0.77745 -2.18386,-1.24824 3.92757,-5.60637c3.08598,-2.20063 5.61085,-4.06509 5.61085,-4.14325c0,-0.07816 -8.52144,-0.14211 -18.9366,-0.14211l-18.9366,0l0,-4.12155l0,-4.12156l19.08668,0c14.71691,0 18.92238,-0.12416 18.36915,-0.54231c-0.39464,-0.29827 -3.08667,-2.27754 -5.98229,-4.39837c-5.45828,-3.99782 -5.45656,-5.06994 0.00844,-5.40226c2.71972,-0.16538 45.06261,12.5413 46.51802,13.9596c-14.10405,5.06413 -30.96316,10.36497 -46.49315,15.0388c-0.81886,0 -2.24627,-0.23428 -3.17207,-0.52062l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="135" x="660" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Salida</text>
+ </g>
+</svg>

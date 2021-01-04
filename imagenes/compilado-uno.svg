@@ -1,0 +1,31 @@
+<svg width="800" height="541" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="543" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="50" width="198.99999" y="102.45313" x="11" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="133.45313" x="32" stroke-width="0" stroke="#000" fill="#000000">Código Fuente</text>
+  <path id="svg_4" d="m249.03016,139.48867c-2.51365,-0.77745 -2.18386,-1.24824 3.92757,-5.60637c3.08598,-2.20063 5.61085,-4.06509 5.61085,-4.14326c0,-0.07815 -8.52144,-0.14211 -18.9366,-0.14211l-18.9366,0l0,-4.12156l0,-4.12156l19.08668,0c14.71691,0 18.92238,-0.12416 18.36915,-0.54231c-0.39464,-0.29827 -3.08667,-2.27754 -5.98229,-4.39837c-5.45828,-3.99782 -5.45657,-5.06994 0.00843,-5.40225c2.71973,-0.16538 45.06261,12.5413 46.51802,13.9596c-14.10405,5.06412 -30.96316,10.36496 -46.49315,15.0388c-0.81886,0 -2.24627,-0.23428 -3.17207,-0.52062l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_6" height="88" width="180" y="85" x="331" fill-opacity="null" stroke-opacity="null" stroke-width="10.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_7" height="58" width="153" y="100" x="344" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="138" x="360" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Compilador</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="54" x="367" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Ordenador</text>
+  <path transform="rotate(89.73323822021484 672.6953735351561,414.5093078613282) " stroke="#000" id="svg_12" d="m662.03016,428.48867c-2.51365,-0.77745 -2.18386,-1.24824 3.92757,-5.60637c3.08598,-2.20063 5.61085,-4.06509 5.61085,-4.14325c0,-0.07816 -8.52144,-0.14211 -18.9366,-0.14211l-18.9366,0l0,-4.12155l0,-4.12156l19.08668,0c14.71691,0 18.92238,-0.12416 18.36915,-0.54231c-0.39464,-0.29827 -3.08667,-2.27754 -5.98229,-4.39837c-5.45828,-3.99782 -5.45656,-5.06994 0.00844,-5.40226c2.71972,-0.16538 45.06261,12.5413 46.51802,13.9596c-14.10405,5.06413 -30.96316,10.36497 -46.49315,15.0388c-0.81886,0 -2.24627,-0.23428 -3.17207,-0.52062l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <rect stroke="#000" id="svg_15" height="50" width="137.99999" y="281.45313" x="351" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_16" y="314.45313" x="365" stroke-width="0" stroke="#000" fill="#000000">Ejecutable</text>
+  <path transform="rotate(88.9798355102539 417.6953735351563,227.50929260253912) " id="svg_17" d="m407.03016,241.48867c-2.51365,-0.77745 -2.18386,-1.24824 3.92757,-5.60637c3.08598,-2.20063 5.61085,-4.06509 5.61085,-4.14325c0,-0.07816 -8.52144,-0.14211 -18.9366,-0.14211l-18.9366,0l0,-4.12155l0,-4.12156l19.08668,0c14.71691,0 18.92238,-0.12416 18.36915,-0.54231c-0.39464,-0.29827 -3.08667,-2.27754 -5.98229,-4.39837c-5.45828,-3.99782 -5.45656,-5.06994 0.00844,-5.40226c2.71972,-0.16538 45.06261,12.5413 46.51802,13.9596c-14.10405,5.06413 -30.96316,10.36497 -46.49315,15.0388c-0.81886,0 -2.24627,-0.23428 -3.17207,-0.52062l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path stroke="#000" transform="rotate(-0.4756409823894501 535.6953735351476,311.5092773437496) " id="svg_18" d="m528.04269,324.71354c-1.80364,-0.73434 -1.567,-1.17903 2.81818,-5.29551c2.2143,-2.07861 4.02599,-3.83969 4.02599,-3.91352c0,-0.07383 -6.11445,-0.13423 -13.58771,-0.13423l-13.58771,0l0,-3.89302l0,-3.89303l13.6954,0c10.55993,0 13.57751,-0.11728 13.18054,-0.51224c-0.28317,-0.28173 -2.2148,-2.15126 -4.29251,-4.15449c-3.91652,-3.77615 -3.91528,-4.78882 0.00606,-5.10272c1.9515,-0.15621 32.33409,11.84591 33.3784,13.18557c-10.12018,4.78333 -22.21721,9.79025 -33.36055,14.20493c-0.58756,0 -1.61178,-0.22129 -2.27608,-0.49175l0,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <rect id="svg_19" height="88" width="180" y="274" x="585" fill-opacity="null" stroke-opacity="null" stroke-width="10.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_20" height="58" width="153" y="289" x="598" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_21" y="327" x="614" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Ejecutable</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_22" y="243" x="621" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Ordenador</text>
+  <path id="svg_23" d="m598.00497,487.75876l30.59998,-27.99996l91.79989,0l30.60008,27.99996l-30.60008,28.00005l-91.79989,0l-30.59998,-28.00005z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_24" y="494" x="640" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Salida</text>
+ </g>
+</svg>
