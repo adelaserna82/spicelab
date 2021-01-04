@@ -6,7 +6,7 @@ El objetivo de este trabajo es conocer Spice como lenguaje para realizar simulac
 Trabajaremos con diferentes intépretes de este lenguaje directamente desde un NoteBook de Jupyter para dar más realismo y dinamismo de los diferentes ejercicios que se nos pide realizar. 
 
 En ciertos momentos para dar fe de que entendemos tanto el diseño de los circuitos como el resultado de los diferentes análisis realizados se nos pide realizar ciertos cálculos aplicando las siguientes leyes:
-- Ley de Ohm: $$V = I\cdot R$$
+- Ley de Ohm
 - 1ª Ley de Kirchoff
 - 2ª Ley de Kirchoff
 
